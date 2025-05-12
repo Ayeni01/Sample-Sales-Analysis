@@ -1,2 +1,2 @@
-# Sample-Sales-Analysis
+# Superstore Sales, Profit, and Customer Lifetime Value (CLV) Analysis
 This project involves the development of an interactive Power BI dashboard to analyze sales performance, profitability, and customer lifetime value (CLV) using the Superstore dataset. The dashboard provides stakeholders with a visual representation of key metrics, facilitating data-driven decisions to optimize business operations.
