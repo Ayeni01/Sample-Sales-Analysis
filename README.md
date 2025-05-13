@@ -1,22 +1,7 @@
-## Superstore Sales, Profit, and Customer Lifetime Value (CLV) Analysis Report
+## Superstore Sales, Profit, and Customer Lifetime Value Analysis Report
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Data Source](#data-source)
-- [Dataset Description](#dataset-description)
-- [Tools Used](#tools-used)
-- [Data Preparation and Cleaning](#data-preparation-and-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [KPI Development](#kpi-development)
-- [Dashboard Explanation](#dashboard-explanation)
-- [Insight Summary](#insight-summary)
-- [Recommendations](#recommendations)
-- [Conclusion](#conclusion)
-
-# Superstore Sales, Profit, and Customer Lifetime Value (CLV) Dashboard
+### Superstore Sales, Profit, and Customer Lifetime Value Dashboard
 ![Project 1a](https://github.com/user-attachments/assets/05d72dc9-0986-4ee8-a035-c9fd46ccf723)
 
 
