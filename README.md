@@ -22,6 +22,9 @@ In today's competitive retail environment, understanding sales dynamics, profita
 ### Project Overview
 This project involves the development of an interactive Power BI dashboard to analyze sales performance, profitability, and customer lifetime value (CLV) using the Superstore dataset. The dashboard provides stakeholders with a visual representation of key metrics, facilitating data-driven decisions to optimize business operations.
 
+![Project 1a](https://github.com/user-attachments/assets/33012c22-b111-4bc3-97ec-3add583f8776)
+
+
 ### Objectives
 1.	Sales and Profit Analysis: Evaluate sales and profit trends across different time periods, regions, and customer segments.
 2.	Product Performance Evaluation: Identify top-performing and underperforming product categories and sub-categories.
@@ -73,6 +76,8 @@ The dataset comprises 9,994 records and 21 columns, each representing various as
 ### Exploratory Data Analysis
 Exploratory Data Analysis was conducted to uncover patterns and relationships within the data. Key analyses included:
 1. Sales and Profit Trends Over Time:
+
+
 - Insight: Identified peak sales periods and seasonal trends.
 2. Sales by Region:
 - Insight: Recognized high-performing regions and potential areas for growth.
