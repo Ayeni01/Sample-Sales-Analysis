@@ -1,8 +1,25 @@
 ## Superstore Sales, Profit, and Customer Lifetime Value (CLV) Analysis Report
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Dataset Description](#dataset-description)
+- [Tools Used](#tools-used)
+- [Data Preparation and Cleaning](#data-preparation-and-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [KPI Development](#kpi-development)
+- [Dashboard Explanation](#dashboard-explanation)
+- [Insight Summary](#insight-summary)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 ### Introduction
 In today's competitive retail environment, understanding sales dynamics, profitability, and customer behavior is essential for sustained growth. This project delves into a comprehensive analysis of the Superstore dataset, aiming to extract actionable insights that can drive strategic decision-making and enhance customer relationship management.
-Project Overview
+
+### Project Overview
 This project involves the development of an interactive Power BI dashboard to analyze sales performance, profitability, and customer lifetime value (CLV) using the Superstore dataset. The dashboard provides stakeholders with a visual representation of key metrics, facilitating data-driven decisions to optimize business operations.
 
 ### Objectives
@@ -53,7 +70,7 @@ The dataset comprises 9,994 records and 21 columns, each representing various as
 - Month: Extracted from the Order Date.
 - Customer Lifetime Value (CLV): Calculated based on sales data per customer.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 Exploratory Data Analysis was conducted to uncover patterns and relationships within the data. Key analyses included:
 Sales and Profit Trends Over Time:
  
