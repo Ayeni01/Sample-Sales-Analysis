@@ -72,20 +72,16 @@ The dataset comprises 9,994 records and 21 columns, each representing various as
 
 ### Exploratory Data Analysis
 Exploratory Data Analysis was conducted to uncover patterns and relationships within the data. Key analyses included:
-Sales and Profit Trends Over Time:
- 
-Insight: Identification of peak sales periods and seasonal trends.
-Sales by Region:
- 
-Insight: Recognition of high-performing regions and potential areas for growth.
-Sales and Profit by Product Category and Sub-Category Performance:
- Insight: Identification of top-selling products and those with declining sales.
-Discount Impact on Profitability:
- 
-Insight: Understanding how discount strategies affect overall profitability.
-Customer Segmentation Analysis:
- 
-Insight: Determination of which customer segments contribute most to sales and profit.
+1. Sales and Profit Trends Over Time:
+- Insight: Identified peak sales periods and seasonal trends.
+2. Sales by Region:
+- Insight: Recognized high-performing regions and potential areas for growth.
+3. Sales and Profit by Product Category and Sub-Category Performance:
+- Insight: Identified top-selling products and those with declining sales.
+4. Discount Impact on Profitability:
+- Insight: Understood how discount strategies affect overall profitability.
+5. Customer Segmentation Analysis:
+- Insight: Determined which customer segments contribute most to sales and profit.
 
 ### KPI Development
 Key Performance Indicators (KPIs) were developed to monitor business performance:
