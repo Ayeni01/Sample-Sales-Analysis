@@ -76,10 +76,10 @@ The dataset comprises 9,994 records and 21 columns, each representing various as
 ### Exploratory Data Analysis
 Exploratory Data Analysis was conducted to uncover patterns and relationships within the data. Key analyses included:
 1. Sales and Profit Trends Over Time:
-
-
+   
 - Insight: Identified peak sales periods and seasonal trends.
 2. Sales by Region:
+
 - Insight: Recognized high-performing regions and potential areas for growth.
 3. Sales and Profit by Product Category and Sub-Category Performance:
 - Insight: Identified top-selling products and those with declining sales.
